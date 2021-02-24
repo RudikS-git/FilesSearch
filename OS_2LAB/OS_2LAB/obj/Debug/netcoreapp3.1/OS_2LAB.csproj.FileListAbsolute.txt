@@ -1,0 +1,9 @@
+C:\Users\rudik\source\repos\OS_2LAB\OS_2LAB\obj\Debug\netcoreapp3.1\OS_2LAB.csprojAssemblyReference.cache
+C:\Users\rudik\source\repos\OS_2LAB\OS_2LAB\obj\Debug\netcoreapp3.1\OS_2LAB.AssemblyInfoInputs.cache
+C:\Users\rudik\source\repos\OS_2LAB\OS_2LAB\obj\Debug\netcoreapp3.1\OS_2LAB.AssemblyInfo.cs
+C:\Users\rudik\source\repos\OS_2LAB\OS_2LAB\obj\Debug\netcoreapp3.1\OS_2LAB.csproj.CoreCompileInputs.cache
+C:\Users\rudik\source\repos\OS_2LAB\OS_2LAB\bin\Debug\netcoreapp3.1\OS_2LAB.deps.json
+C:\Users\rudik\source\repos\OS_2LAB\OS_2LAB\bin\Debug\netcoreapp3.1\OS_2LAB.dll
+C:\Users\rudik\source\repos\OS_2LAB\OS_2LAB\bin\Debug\netcoreapp3.1\OS_2LAB.pdb
+C:\Users\rudik\source\repos\OS_2LAB\OS_2LAB\obj\Debug\netcoreapp3.1\OS_2LAB.dll
+C:\Users\rudik\source\repos\OS_2LAB\OS_2LAB\obj\Debug\netcoreapp3.1\OS_2LAB.pdb

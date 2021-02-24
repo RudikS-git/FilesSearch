@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OS_2LAB_DESKTOP/1.0.0": {
+        "dependencies": {
+          "OS_2LAB": "1.0.0",
+          "Ookii.Dialogs": "3.1.0"
+        },
+        "runtime": {
+          "OS_2LAB_DESKTOP.dll": {}
+        }
+      },
+      "Ookii.Dialogs/3.1.0": {
+        "dependencies": {
+          "Ookii.Dialogs.Wpf": "3.1.0"
+        }
+      },
+      "Ookii.Dialogs.Wpf/3.1.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/Ookii.Dialogs.Wpf.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.1.0.0"
+          }
+        }
+      },
+      "OS_2LAB/1.0.0": {
+        "runtime": {
+          "OS_2LAB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OS_2LAB_DESKTOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ookii.Dialogs/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QgZCelcwaALkNs7fiI0qvDlRXR9K2PkXJ/xOMGQ+LpCiV3vXmPxtWs5riSwbxiMfb2PQ+97Wz2hDs6OdaN6Y8Q==",
+      "path": "ookii.dialogs/3.1.0",
+      "hashPath": "ookii.dialogs.3.1.0.nupkg.sha512"
+    },
+    "Ookii.Dialogs.Wpf/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EpUWoSLLO1aVkUmo2dPE4xO+zQZRxbp13agbbQzGBL1ACALgCD69cTwdLdPdg2LIsPcZ4uA3iID+YaazdZxyww==",
+      "path": "ookii.dialogs.wpf/3.1.0",
+      "hashPath": "ookii.dialogs.wpf.3.1.0.nupkg.sha512"
+    },
+    "OS_2LAB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
